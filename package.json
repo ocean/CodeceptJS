@@ -45,7 +45,7 @@
   },
   "scripts": {
     "prepublish": "gulp prepublish",
-    "test": "gulp test"
+    "test": "node ./bin/codecept.js init"
   },
   "license": "MIT"
 }
