@@ -1,4 +1,4 @@
-# CodeceptJs [![NPM version][npm-image]][npm-url]
+# CodeceptJs [![Build status][ocean-travis-image]][ocean-travis-url]
 
 Reference: [Helpers API](https://github.com/Codeception/CodeceptJS/blob/master/docs/API.md) | [Demo](https://github.com/Codeception/codeceptjs-demo)
 
@@ -272,3 +272,6 @@ MIT © [DavertMik](http://codegyre.com)
 [daviddm-url]: https://david-dm.org/Codeception/codeceptjs
 [coveralls-image]: https://coveralls.io/repos/Codeception/codeceptjs/badge.svg
 [coveralls-url]: https://coveralls.io/r/Codeception/codeceptjs
+
+[ocean-travis-image]: https://travis-ci.org/ocean/CodeceptJS.svg?branch=master
+[ocean-travis-url]: https://travis-ci.org/ocean/CodeceptJS
