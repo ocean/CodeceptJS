@@ -1,6 +1,8 @@
 # CodeceptJs [![Build status][ocean-travis-image]][ocean-travis-url]
 
-Reference: [Helpers API](https://github.com/Codeception/CodeceptJS/blob/master/docs/API.md) | [Demo](https://github.com/Codeception/codeceptjs-demo)
+**Official CodeceptJS version** [![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/Codeception/CodeceptJS.svg)](https://travis-ci.org/Codeception/CodeceptJS)
+
+Reference: [Helpers API](https://github.com/Codeception/CodeceptJS/blob/master/docs) | [Demo](https://github.com/Codeception/codeceptjs-demo)
 
 ## Modern Era Acceptance Testing Framework for NodeJS
 
@@ -123,7 +125,7 @@ CodeceptJS Demonstration --
 ```
 
 CodeceptJS has an ultimate feature to help you develop and debug you test. 
-You can **pause execution of test in any place and use interactive shell** to try different actions and locatots.
+You can **pause execution of test in any place and use interactive shell** to try different actions and locators.
 Just add `pause()` call at any place in a test and run it. 
 
 Interactive shell can be started outside test context by running:

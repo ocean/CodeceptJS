@@ -1,6 +1,6 @@
 {
   "name": "codeceptjs",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "Modern Era Aceptance Testing Framework for NodeJS",
   "homepage": "http://codecept.io",
   "repository": "Codeception/codeceptjs",
@@ -10,8 +10,8 @@
     "email": "davert@codegyre.com",
     "url": "http://codegyre.com"
   },
-  "bin" : { 
-    "codeceptjs" : "./bin/codecept.js"
+  "bin": {
+    "codeceptjs": "./bin/codecept.js"
   },
   "files": [
     "bin",
@@ -30,13 +30,15 @@
     "glob": "^6.0.1",
     "inquirer": "^0.11.0",
     "mocha": "^2.3.3",
+    "sinon": "^1.17.2",
     "webdriverio": "^3.2.5"
   },
   "devDependencies": {
+    "chai": "^3.4.1",
     "documentation": "^3.0.4",
     "gulp": "^3.6.0",
     "gulp-coveralls": "^0.1.0",
-    "gulp-documentation": "^2.0.1",
+    "gulp-documentation": "^2.1.0",
     "gulp-eslint": "^1.0.0",
     "gulp-exclude-gitignore": "^1.0.0",
     "gulp-istanbul": "^0.9.0",
