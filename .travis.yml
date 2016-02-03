@@ -3,7 +3,7 @@ language: node_js
 node_js:
   # Node 0.12 doesn't work at the moment without some serious code massaging
   #- '0.12'
-  - '4.2'
-  - '5.1'
+  - '4'
+  - '5'
 
 script: gulp
